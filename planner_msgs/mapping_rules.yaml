@@ -130,6 +130,11 @@
   ros2_service_name: 'PlannerGetFrontiers'
 -
   ros1_package_name: 'planner_msgs'
+  ros1_service_name: 'planner_validate_frontiers'
+  ros2_package_name: 'planner_msgs'
+  ros2_service_name: 'PlannerValidateFrontiers'
+-
+  ros1_package_name: 'planner_msgs'
   ros1_service_name: 'planner_get_target_costs'
   ros2_package_name: 'planner_msgs'
   ros2_service_name: 'PlannerGetTargetCosts'
