@@ -41,6 +41,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/PlannerDynamicGlobalBound.srv"
   "srv/PlannerGeofence.srv"
   "srv/PlannerGetFrontiers.srv"
+  "srv/PlannerValidateFrontiers.srv"
   "srv/PlannerGetTargetCosts.srv"
   "srv/PlannerGlobal.srv"
   "srv/PlannerGoToWaypoint.srv"
